@@ -18,15 +18,20 @@ Most Ads Hour: The hour with the highest number of ads viewed by each user.
 
 
 
-Insights and Analysis:
+## Insights and Analysis:
 This Power BI project provides detailed analysis and answers the following questions:
 
 How much watch the campaign?
+
 How much purchase?
+
 Purchaser Percentage
+
 Sum of total ads by most ads hours
+
 Sum of total ads by most ads day
-Pie chart of purchase by ad and PSA
+
+Pie chart of purchase by AD and PSA
 
 
 This visualization showcases the distribution of purchases between regular ads and public service announcements. It provides insights into the effectiveness of different types of ads.
