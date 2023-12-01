@@ -34,4 +34,7 @@ Sum of total ads by most ads day
 Pie chart of purchase by AD and PSA
 
 
+
+
+
 This visualization showcases the distribution of purchases between regular ads and public service announcements. It provides insights into the effectiveness of different types of ads.
